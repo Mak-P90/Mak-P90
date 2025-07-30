@@ -39,52 +39,15 @@ Además de ser desarrollador, administro **todos mis sistemas**. Me encargo de:
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=TuUsuario&theme=dark_lover)
 
-## ⚡ Proyectos destacados
-
-### 1. [EmeritaCode](https://www.emeritacode.com/)
-- Plataforma avanzada en 10 idiomas que ofrece noticias tecnológicas, un foro, y un personalizador de componentes CSS gratuito para el público. ¡Mejorándose día a día!
-
-## 🚧 Proyectos en progreso
-
-- [ ] SportKabra - Conectar a profesionales con clientes (50% completado)
-- [ ] EatsyTech - Gestión de establecimientos (30% completado)
-
-### 2. [SportKabra](https://www.sportkabra.com/)
-- Plataforma **totalmente gratuita** que permitirá conectar a profesionales con clientes finales de forma **integral** y **centralizada**. ¡Únete a la waiting list!
-
-### 3. [EatsyTech](https://www.eatsytech.com/)
-- Sistema gratuito para la gestión de establecimientos, permitiendo a los profesionales gestionar sus negocios sin ningún costo.
-
 ## 📈 Estadísticas de GitHub
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Mak-P90&show_icons=true&theme=radical&bg_color=76,381a06,a5150d&title_color=fff&text_color=ffffff)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mak-P90&layout=donut-vertical&theme=radical&bg_color=76,381a06,a5150d&title_color=fff&text_color=ffffff)
 
-## 🌱 Actualmente aprendiendo
-
-- Comenzando con **Java**.
-
 ## 📫 Cómo contactarme
 
-[![Instagram](https://img.shields.io/badge/-Instagram-a5150d?logo=Instagram&logoColor=white)](https://www.instagram.com/abdel_kerim01)
+### 1. [EmeritaCode](https://www.emeritacode.com/)
+
 [![Instagram EmeritaCode](https://img.shields.io/badge/-Instagram%20(empresa)-a5150d?logo=Instagram&logoColor=white)](https://www.instagram.com/emeritacode)
-
-## 🔥 Datos curiosos sobre mí
-
-Soy de esos que prefieren el código vanilla, el **control total** sobre lo que hacen, y que montan todo desde cero. **Frameworks** son geniales, pero no hay nada como crear soluciones propias. Me encanta estar al tanto de las últimas tecnologías y siempre ando experimentando con **Docker**, **Kubernetes**, y las herramientas de monitoreo como **Prometheus** y **Grafana**.
-
-Además, administro todos mis sistemas personalmente, desde los servidores hasta los balanceadores de carga. **RabbitMQ** y **Kafka** son mis herramientas favoritas para la mensajería, ¡no hay nada mejor para manejar tráfico y tareas pesadas!
-
-Ah, y si te preguntas sobre mi disponibilidad: soy una **criatura nocturna**. Si ves commits a las 4 de la mañana, no te preocupes, simplemente no puedo dormir. Prefiero leer papers técnicos, imaginar soluciones complejas o caminar por la montaña cuando no estoy en el teclado. 🎭 En mi tiempo libre me gusta ir al teatro, explorar galerías de arte y hacer senderismo.
-
-Y lo más importante: **todo lo que hago es gratuito**. Las plataformas que desarrollo están diseñadas para que cualquiera pueda acceder sin coste, ya sea para profesionales o usuarios finales. ¡Siempre buscando aportar algo más!
-
-## 💡 Hacks y Trucos
-
-- **RabbitMQ**: Para maximizar el throughput y evitar la saturación de memoria, utiliza colas **duraderas** junto con un ajuste fino de los límites de procesamiento por cola.
-- **Apache Kafka**: Implementar **particiones** en los temas puede mejorar significativamente el rendimiento cuando gestionas grandes cantidades de mensajes simultáneamente.
-- **Docker**: Usa **multi-stage builds** para reducir el tamaño de las imágenes, lo que hace que el despliegue sea más rápido y ligero.
-- **Prometheus**: Configura **alertas inteligentes** utilizando reglas basadas en thresholds dinámicos, en lugar de valores estáticos, para evitar notificaciones falsas o irrelevantes.
-- **Grafana**: Automatiza tus dashboards conectándolos a **templates** y variables, lo que permite que se adapten a múltiples entornos sin tener que rediseñar todo desde cero.
 
