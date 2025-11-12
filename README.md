@@ -1,11 +1,12 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Desarrollador+Fullstack;Tecnologías+que+domino)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Desarrollador+Fullstack)
 
 
-## 📫 Cómo contactarme
+## Contact
 
-### 1. [EmeritaCode](https://www.emeritacode.com/)
+[![Instagram EmeritaCode](https://img.shields.io/badge/-Instagram%20(empresa)-05634B?logo=Instagram&logoColor=white)](https://www.instagram.com/emeritacode)  [![EmeritaCode Web](https://img.shields.io/badge/-Instagram%20(empresa)-0036CC?logo=Instagram&logoColor=white)](https://www.emeritacode.com/) 
 
-[![Instagram EmeritaCode](https://img.shields.io/badge/-Instagram%20(empresa)-a5150d?logo=Instagram&logoColor=white)](https://www.instagram.com/emeritacode)
+
+## Top Tech & Langs
 
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -28,13 +29,6 @@
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?logo=kali-linux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white)
 
-## 🛠️ Administración de Sistemas
-
-Además de ser desarrollador, administro **todos mis sistemas**. Me encargo de:
-
-- Montar servidores.
-- Configurar balanceadores de carga.
-- Monitorear y mantener todo el sistema en funcionamiento.
 
 ## 🏆 Trofeos de GitHub
 
