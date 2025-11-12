@@ -3,7 +3,7 @@
 
 ## Contact
 
-[![Instagram EmeritaCode](https://img.shields.io/badge/-Instagram%20(empresa)-05634B?logo=Instagram&logoColor=white)](https://www.instagram.com/emeritacode)  [![EmeritaCode Web](https://img.shields.io/badge/-Instagram%20(empresa)-0036CC?logo=Instagram&logoColor=white)](https://www.emeritacode.com/) 
+ [![EmeritaCode Web](https://img.shields.io/badge/-Web%20(empresa)-0036CC?logo=googlechrome&logoColor=white)](https://www.emeritacode.com/)  [![Instagram EmeritaCode](https://img.shields.io/badge/-Instagram%20(empresa)-05634B?logo=Instagram&logoColor=white)](https://www.instagram.com/emeritacode)
 
 
 ## Top Tech & Langs
