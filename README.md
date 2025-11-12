@@ -1,10 +1,13 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Desarrollador+Fullstack)
+![header](https://capsule-render.vercel.app/api?type=waving&color=8A0F2C&height=180&section=header&text=Full+Stack+Dev&fontSize=50&fontAlignY=35&descAlignY=60&animation=fadeIn)
 
 
 ## Contact
 
  [![EmeritaCode Web](https://img.shields.io/badge/-Web%20(empresa)-393939?logo=googlechrome&logoColor=white)](https://www.emeritacode.com/)  [![Instagram EmeritaCode](https://img.shields.io/badge/-Instagram%20(empresa)-8A0F2C?logo=Instagram&logoColor=white)](https://www.instagram.com/emeritacode)
 
+
+## 📈 Estadísticas de GitHub
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Mak-P90&show_icons=true&bg_color=60,8A0F2C,5e081c&title_color=ffffff&text_color=ffffff&icon_color=ffffff)
 
 ## Top Tech & Langs
 
@@ -33,7 +36,4 @@
 ## 🏆 Trofeos de GitHub
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=TuUsuario&theme=dark_lover)
-
-## 📈 Estadísticas de GitHub
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Mak-P90&show_icons=true&theme=radical&bg_color=76,381a06,a5150d&title_color=fff&text_color=ffffff)](https://github-readme-stats.vercel.app/api?username=Mak-P90&show_icons=true&bg_color=60,8A0F2C,5e081c&title_color=ffffff&text_color=ffffff&icon_color=ffffff)
 
