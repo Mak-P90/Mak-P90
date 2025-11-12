@@ -1,5 +1,12 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Desarrollador+Fullstack;Tecnologías+que+domino)
 
+
+## 📫 Cómo contactarme
+
+### 1. [EmeritaCode](https://www.emeritacode.com/)
+
+[![Instagram EmeritaCode](https://img.shields.io/badge/-Instagram%20(empresa)-a5150d?logo=Instagram&logoColor=white)](https://www.instagram.com/emeritacode)
+
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
@@ -36,10 +43,4 @@ Además de ser desarrollador, administro **todos mis sistemas**. Me encargo de:
 ## 📈 Estadísticas de GitHub
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Mak-P90&show_icons=true&theme=radical&bg_color=76,381a06,a5150d&title_color=fff&text_color=ffffff)
-
-## 📫 Cómo contactarme
-
-### 1. [EmeritaCode](https://www.emeritacode.com/)
-
-[![Instagram EmeritaCode](https://img.shields.io/badge/-Instagram%20(empresa)-a5150d?logo=Instagram&logoColor=white)](https://www.instagram.com/emeritacode)
 
