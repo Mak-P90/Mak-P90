@@ -1,10 +1,6 @@
 # ¡Hola, soy Abdel Kerim! 👋
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Desarrollador+Fullstack;Administrador+de+Sistemas;Siempre+Aprendiendo+Algo+Nuevo)
-
-Soy un apasionado desarrollador **Full Stack** y administrador de sistemas, con experiencia en la gestión de servidores, balanceadores de carga y monitoreo. Además, apoyo el movimiento **Frameworkless**. Actualmente, estoy desarrollando plataformas **100% gratuitas** que buscan revolucionar el mercado conectando a profesionales con clientes finales, y facilitando la gestión para todos, **sin costo alguno**.
-
-## 🚀 Tecnologías que domino
+## ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Desarrollador+Fullstack;Tecnologías+que+domino)
 
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
