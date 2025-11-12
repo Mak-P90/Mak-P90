@@ -1,6 +1,4 @@
-# ¡Hola, soy Abdel Kerim! 👋
-
-## ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Desarrollador+Fullstack;Tecnologías+que+domino)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Desarrollador+Fullstack;Tecnologías+que+domino)
 
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
