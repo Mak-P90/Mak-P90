@@ -43,8 +43,6 @@ Además de ser desarrollador, administro **todos mis sistemas**. Me encargo de:
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Mak-P90&show_icons=true&theme=radical&bg_color=76,381a06,a5150d&title_color=fff&text_color=ffffff)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mak-P90&layout=donut-vertical&theme=radical&bg_color=76,381a06,a5150d&title_color=fff&text_color=ffffff)
-
 ## 📫 Cómo contactarme
 
 ### 1. [EmeritaCode](https://www.emeritacode.com/)
