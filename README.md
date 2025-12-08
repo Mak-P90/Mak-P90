@@ -6,9 +6,6 @@
  [![EmeritaCode Web](https://img.shields.io/badge/-Web%20(empresa)-393939?logo=googlechrome&logoColor=white)](https://www.emeritacode.com/)  [![Instagram EmeritaCode](https://img.shields.io/badge/-Instagram%20(empresa)-8A0F2C?logo=Instagram&logoColor=white)](https://www.instagram.com/emeritacode)
 
 
-## 📈 Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Mak-P90&show_icons=true&bg_color=60,8A0F2C,5e081c&title_color=ffffff&text_color=ffffff&icon_color=ffffff)
-
 ## Top Tech & Langs
 
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
@@ -32,7 +29,4 @@
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?logo=kali-linux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white)
 
-
-## 🏆 Trofeos de GitHub
-![Trophies](https://github-profile-trophy.vercel.app/?username=TuUsuario&theme=dark_lover)
 
