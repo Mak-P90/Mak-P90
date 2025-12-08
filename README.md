@@ -34,6 +34,5 @@
 
 
 ## 🏆 Trofeos de GitHub
-
 ![Trophies](https://github-profile-trophy.vercel.app/?username=TuUsuario&theme=dark_lover)
 
